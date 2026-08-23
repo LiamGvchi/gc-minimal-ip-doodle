@@ -75,4 +75,8 @@ The bundled visual references have documented roles and provenance. See [ASSET_P
 
 ## License
 
-The repository is released under the [MIT License](LICENSE), limited to material the contributors have the right to license. The license does not grant rights in character references later supplied by users.
+Except where otherwise noted, the current version of this repository is available under the [PolyForm Noncommercial License 1.0.0](LICENSE). It permits use, modification, and redistribution only for noncommercial purposes. Commercial use requires separate written permission from the maintainer.
+
+The license applies only to material the contributors have the right to license. It does not grant rights in character references later supplied by users.
+
+License history: the initial public commit `5eab276` was released under the MIT License. The current license change does not withdraw rights already granted for that version.
