@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#FFFFFF"/>
+  <g stroke="#1B1C1A" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M330 441C274 472 249 541 267 609C286 678 345 712 411 691C454 678 480 645 483 597C485 552 462 502 420 466C389 440 359 429 330 441Z" fill="#F28A5B"/>
+    <path d="M310 682C295 712 302 732 327 736C348 740 366 721 366 695" fill="#F28A5B"/>
+    <path d="M405 685C409 717 425 735 449 728C472 722 476 699 462 676" fill="#F28A5B"/>
+    <path d="M454 542C489 546 516 568 529 595" fill="none"/>
+    <path d="M438 580C481 588 513 613 535 644" fill="none"/>
+    <ellipse cx="645" cy="481" rx="115" ry="37" fill="#75AEEA"/>
+    <path d="M550 481L565 645C570 682 721 682 727 645L741 481" fill="#75AEEA"/>
+    <ellipse cx="646" cy="645" rx="82" ry="29" fill="#75AEEA"/>
+    <ellipse cx="645" cy="481" rx="28" ry="11" fill="#1B1C1A"/>
+    <path d="M575 525C618 539 675 540 719 526" fill="none"/>
+    <path d="M571 567C616 580 681 580 725 564" fill="none"/>
+    <path d="M569 608C620 622 676 622 726 607" fill="none"/>
+    <path d="M729 615C774 612 805 631 810 668C814 700 798 727 766 741" fill="none"/>
+    <circle cx="338" cy="547" r="8" fill="#1B1C1A" stroke="none"/>
+    <circle cx="390" cy="537" r="8" fill="#1B1C1A" stroke="none"/>
+    <path d="M351 573C361 576 371 574 380 569" fill="none"/>
+  </g>
+</svg>

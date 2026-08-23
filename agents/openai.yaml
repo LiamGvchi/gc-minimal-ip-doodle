@@ -1,0 +1,4 @@
+interface:
+  display_name: "GC 极简 IP 手绘"
+  short_description: "保留角色识别特征，批量生成统一的极简手绘贴纸小插画"
+  default_prompt: "使用 $gc-minimal-ip-doodle 将这张角色参考图生成五张不同生活场景的极简手绘插画。"
