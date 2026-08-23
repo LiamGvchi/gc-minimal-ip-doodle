@@ -6,6 +6,21 @@ A Codex Skill that preserves a character's recognizable identity while redrawing
 
 It is designed for mascot, toy, animal, and IP-character references that need consistent visual treatment across multiple small everyday scenes.
 
+## Examples
+
+The maintainer owns or has explicitly authorized every image shown below for public inclusion in this repository.
+
+<table>
+  <tr>
+    <td align="center"><img src="examples/black-anglerfish-before-after.jpeg" alt="Anglerfish reference and doodle comparison" width="360"><br><sub>Reference to doodle</sub></td>
+    <td align="center"><img src="assets/style-references/anglerfish-bedside.png" alt="Anglerfish resting beside a pillow" width="360"><br><sub>Anglerfish at bedtime</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/style-references/capybara-desk.png" alt="Capybara working at a desk" width="360"><br><sub>Capybara at a desk</sub></td>
+    <td align="center"><img src="examples/yellow-kangaroo-watering.png" alt="Yellow kangaroo watering a sprout" width="360"><br><sub>Yellow kangaroo watering a sprout</sub></td>
+  </tr>
+</table>
+
 ## What it does
 
 - Builds an identity lock from the supplied character reference.
@@ -56,6 +71,9 @@ gc-minimal-ip-doodle/
 ├── ASSET_PROVENANCE.md
 ├── agents/
 │   └── openai.yaml
+├── examples/
+│   ├── black-anglerfish-before-after.jpeg
+│   └── yellow-kangaroo-watering.png
 ├── references/
 │   ├── prompt-template.md
 │   ├── quality-checklist.md

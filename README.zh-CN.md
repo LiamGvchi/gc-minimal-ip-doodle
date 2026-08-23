@@ -6,6 +6,21 @@
 
 它适合吉祥物、玩具、动物角色与 IP 角色参考图，也适合需要连续生成多个统一风格生活场景的任务。
 
+## 案例展示
+
+以下图片均由维护者拥有，或已经由维护者明确授权用于本仓库的公开展示。
+
+<table>
+  <tr>
+    <td align="center"><img src="examples/black-anglerfish-before-after.jpeg" alt="鮟鱇鱼参考图与极简手绘效果对照" width="360"><br><sub>从参考图到极简手绘</sub></td>
+    <td align="center"><img src="assets/style-references/anglerfish-bedside.png" alt="躺在枕头旁的鮟鱇鱼" width="360"><br><sub>鮟鱇鱼床边场景</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/style-references/capybara-desk.png" alt="坐在桌前工作的水豚" width="360"><br><sub>水豚办公桌场景</sub></td>
+    <td align="center"><img src="examples/yellow-kangaroo-watering.png" alt="给幼苗浇水的黄色袋鼠" width="360"><br><sub>黄色袋鼠给幼苗浇水</sub></td>
+  </tr>
+</table>
+
 ## 它能做什么
 
 - 从用户提供的角色参考图中建立身份锁定信息。
@@ -56,6 +71,9 @@ gc-minimal-ip-doodle/
 ├── ASSET_PROVENANCE.md
 ├── agents/
 │   └── openai.yaml
+├── examples/
+│   ├── black-anglerfish-before-after.jpeg
+│   └── yellow-kangaroo-watering.png
 ├── references/
 │   ├── prompt-template.md
 │   ├── quality-checklist.md
