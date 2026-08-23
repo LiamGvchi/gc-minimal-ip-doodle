@@ -75,8 +75,8 @@ The bundled visual references have documented roles and provenance. See [ASSET_P
 
 ## License
 
-Except where otherwise noted, the current version of this repository is available under the [PolyForm Noncommercial License 1.0.0](LICENSE). It permits use, modification, and redistribution only for noncommercial purposes. Commercial use requires separate written permission from the maintainer.
+Except where otherwise noted, the current version of this repository is licensed under the [GNU Affero General Public License v3.0 only (AGPL-3.0-only)](LICENSE). Commercial use is permitted, but redistribution and modified network-interactive deployments must comply with the AGPL source-code and license obligations.
 
 The license applies only to material the contributors have the right to license. It does not grant rights in character references later supplied by users.
 
-License history: the initial public commit `5eab276` was released under the MIT License. The current license change does not withdraw rights already granted for that version.
+License history: the initial public commit `5eab276` was released under the MIT License, and commit `8d2ee44` changed the then-current version to PolyForm Noncommercial 1.0.0. Those earlier grants are not withdrawn for copies received under their respective terms. The current `main` branch uses AGPL-3.0-only.

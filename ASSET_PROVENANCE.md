@@ -21,4 +21,4 @@ The bundled style-reference set contains four original assets created for this p
 | `capybara-desk.png` | Maintainer-authorized identity-retention example only | `a0a252bde4431d58b3e2f63674cf09b97d06c8a0a47dc1a0d6515aa36cecd454` |
 | `anglerfish-bedside.png` | Maintainer-authorized identity-retention example only | `87c79009883c32f664db5d9f7755511899ff39aacc099a8d44f1f06fdbbb2ab0` |
 
-These assets are covered by the current repository `LICENSE` only to the extent that the contributors hold licensable rights. The current license does not permit commercial use and does not grant rights in character references supplied later by Skill users.
+These assets are covered by the current repository `LICENSE` only to the extent that the contributors hold licensable rights. The license does not grant rights in character references supplied later by Skill users.

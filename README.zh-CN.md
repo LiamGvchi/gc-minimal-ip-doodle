@@ -75,8 +75,8 @@ gc-minimal-ip-doodle/
 
 ## 许可证
 
-除非另有说明，本仓库当前版本采用 [PolyForm Noncommercial License 1.0.0](LICENSE)。仅允许非商业目的的使用、修改和再分发；商业使用必须另行取得维护者的书面许可。
+除非另有说明，本仓库当前版本采用 [GNU Affero General Public License v3.0 only（AGPL-3.0-only）](LICENSE)。允许商业使用，但再分发以及经过修改的网络交互式部署必须遵守 AGPL 的源码提供和同许可证义务。
 
 许可证只覆盖贡献者有权许可的内容，不授予用户后来提供的角色参考图所涉及的任何权利。
 
-许可证历史：首次公开提交 `5eab276` 采用 MIT License。当前许可证变更不会撤回已经就该历史版本授予的权利。
+许可证历史：首次公开提交 `5eab276` 采用 MIT License，提交 `8d2ee44` 曾将当时版本改为 PolyForm Noncommercial 1.0.0。对于已经依照各自条款取得的历史副本，这些既有授权不会被撤回。当前 `main` 分支采用 AGPL-3.0-only。
