@@ -6,8 +6,6 @@
 
 它适合吉祥物、玩具、动物角色与 IP 角色参考图，也适合需要连续生成多个统一风格生活场景的任务。
 
-![内置原创风格参考](assets/style-references/original-pebble-sprout-white.png)
-
 ## 它能做什么
 
 - 从用户提供的角色参考图中建立身份锁定信息。

@@ -6,8 +6,6 @@ A Codex Skill that preserves a character's recognizable identity while redrawing
 
 It is designed for mascot, toy, animal, and IP-character references that need consistent visual treatment across multiple small everyday scenes.
 
-![Bundled original style reference](assets/style-references/original-pebble-sprout-white.png)
-
 ## What it does
 
 - Builds an identity lock from the supplied character reference.
